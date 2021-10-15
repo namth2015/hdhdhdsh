@@ -1,0 +1,442 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "O5p43ZtUL9COdzmUPPGkgbmi1Mw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Tro3X_g_t3YXmHn_4SkJkIEdps",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-10-08T03:19:26Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Data Licteracy - Tìm hiểu một số khái niệm dữ liệu cơ bản",
+        "description": "#tableau #training #free #BI #Data #Analyst",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_4QqCqzYIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_4QqCqzYIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_4QqCqzYIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g_4QqCqzYIg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g_4QqCqzYIg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g_4QqCqzYIg"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D7NafXK7nBKZyklerIztpQhJ8x4",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-10-08T03:44:24Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Data Licteracy - Tableau Platform",
+        "description": "#tableau #training #free #BI #Data #Analyst#TableauPlatform",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E_Q4LcFiGKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E_Q4LcFiGKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E_Q4LcFiGKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E_Q4LcFiGKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E_Q4LcFiGKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E_Q4LcFiGKU"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RhuUXXzIAK0xUx4Ru8yZ3rOwNZk",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-10-08T04:00:04Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hVie1bUgN_o"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Cky3et9sJ87PwHFETu0nElt97v0",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-10-08T04:21:50Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Data Literacy - Tái cấu trúc dữ liệu (Pivot, Split)",
+        "description": "#tableau #training #free #BI #Data #Analyst#pivot#Split",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fc1fbKeXaek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fc1fbKeXaek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fc1fbKeXaek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fc1fbKeXaek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fc1fbKeXaek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fc1fbKeXaek"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jxIhmhxBHsv_8Mrr7G9qFoPxigw",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-10-08T04:28:36Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Distribution of discrete variables - Phân phối các biến rời rạc",
+        "description": "#tableau #training #free #BI #Data #Analyst#bienroirac#discretevariables",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OlMByAuSVLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OlMByAuSVLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OlMByAuSVLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OlMByAuSVLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OlMByAuSVLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OlMByAuSVLY"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zs7tuSPxt0TLuYpG1X9EG39H9DA",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-10-08T04:39:34Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Tìm hiểu biểu đồ Whisker Box Plot",
+        "description": "#tableau #training #free #BI #Data #Analyst#WhiskerBoxPlot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5D1i5an4RZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5D1i5an4RZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5D1i5an4RZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5D1i5an4RZg"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hSFxuPLYSFgivOP1glXJCJdoNJY",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-10-08T04:40:47Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Distributions of continuous variables—histograms (Phân phối các biến liên tục)",
+        "description": "#tableau #training #free #BI #Data #Analyst#continuousvariable#bienlientuc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7nDzW2emfuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7nDzW2emfuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7nDzW2emfuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7nDzW2emfuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7nDzW2emfuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7nDzW2emfuc"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ln92k6JYe8svgFJ3ztuZYmt-4CE",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-10-08T04:44:45Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Variance and standard deviation - Phương sai và độ lệch chuẩn",
+        "description": "#tableau #training #free #BI #Data #Analyst#Variance#standarddeviation#phuongsai#dolechchuan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/casMuy5v3-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/casMuy5v3-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/casMuy5v3-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/casMuy5v3-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/casMuy5v3-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "casMuy5v3-o"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6zU-7rkM59Vnzp4i_TzTtGH3lZE",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-10-08T04:51:04Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Tương quan Person với Biểu đồ phân tán Scatter Plot",
+        "description": "#tableau #training #free #BI #Data #Analyst#ScatterPlot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9oDA2GXjqAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9oDA2GXjqAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9oDA2GXjqAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9oDA2GXjqAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9oDA2GXjqAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9oDA2GXjqAU"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4GlNeeptDD10U0IhwFdL0DTLHA4",
+      "id": "UEx1LTRCaFpscFhwSkU4Rno2REJpZm96RWxOczFSNnVvNS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-10-08T04:55:52Z",
+        "channelId": "UCO0XHyLayHvnO2-Oe0TB5iQ",
+        "title": "Linear regression - Hồi quy tuyến tính",
+        "description": "#tableau #training #free #BI #Data #Analyst#Linearregression",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xFkB_dZ-1bM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xFkB_dZ-1bM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xFkB_dZ-1bM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xFkB_dZ-1bM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xFkB_dZ-1bM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tableau",
+        "playlistId": "PLu-4BhZlpXpJE8Fz6DBifozElNs1R6uo5",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xFkB_dZ-1bM"
+        },
+        "videoOwnerChannelTitle": "Tableau",
+        "videoOwnerChannelId": "UCO0XHyLayHvnO2-Oe0TB5iQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 50
+  }
+}
